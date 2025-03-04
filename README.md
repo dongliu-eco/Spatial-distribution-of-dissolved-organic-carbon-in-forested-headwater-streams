@@ -1,1 +1,2 @@
 # Spatial-distribution-of-dissolved-organic-carbon-in-forested-headwater-streams
+Here, we present the primary codes used to generate DOC concentration and yield data for forest headwater streams. The subsequent data processing, analysis, mapping, and validation are performed using background computing systems. These processes are mainly carried out in Excel 2021 and ArcGIS 10.2 software, without involving additional coding.
